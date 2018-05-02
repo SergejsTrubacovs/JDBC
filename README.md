@@ -1,4 +1,4 @@
-# PLSQL/JDBC
+# JDBC
 
 This is Eclipse project.
 Run A00212878_JDBC/db/A00212878_JDBC.sql database file in MySQL Workbench.
