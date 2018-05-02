@@ -2,7 +2,7 @@
 
 This is Eclipse project.
 Run A00212878_JDBC/db/A00212878_JDBC.sql database file in MySQL Workbench.
-Import the project into Eclipse, switch to JavaEE perspective, and run A00212878_JDBC/src/MainClass.java file on Tomcat v8 server.
+Import the A00212878_JDBC project folder into Eclipse, switch to JavaEE perspective, and run A00212878_JDBC/src/MainClass.java file on Tomcat v8 server.
 In Java GUI:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
